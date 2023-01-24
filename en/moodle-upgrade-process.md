@@ -1,5 +1,5 @@
 # moodle update/upgrade process
-## intial configuration
+## initial configuration
 - enabled moodle maintenance mode 
 - take snapshot from digialocean
 ## backup
