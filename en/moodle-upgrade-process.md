@@ -21,7 +21,7 @@
 ```
     sudo apt remove mariadb-*
 ```
--- update server repo to read the latest database version
+- update server repo to read the latest database version
 ```
     wget https://downloads.mariadb.com/MariaDB/mariadb_repo_setup
     
@@ -32,8 +32,8 @@
     
     sudo apt update
 ```
---- install the new verison    
-    ```
+- install the new verison    
+```
     sudo apt install mariadb-server
 ```
 - after complete the bakcup process nagivate to your moodle intallation directory and run
