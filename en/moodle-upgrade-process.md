@@ -1,6 +1,8 @@
-# upgrade moodle droplet
+# moodle update/upgrade process
+## intial configuration
 - enabled moodle maintenance mode 
 - take snapshot from digialocean
+## backup
 - backup moodledata directory and save it locally.
 - backup database 
 ```
