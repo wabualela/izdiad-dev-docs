@@ -14,8 +14,8 @@
     sudo apt update 
     sudo apt upgrade -y
 ```
-- if database version need upgrade
--- after backup your database remove old database version
+## database upgrade
+- after backup your database remove old database version
 ```
     sudo apt remove mariadb-*
 ```
