@@ -41,6 +41,7 @@
     git pull
 ```
 - if moodle version need to upgrade (i.e. 3.11 to 4.1.1) 
+
 ```
     git checkout v4.1.1
 ```
